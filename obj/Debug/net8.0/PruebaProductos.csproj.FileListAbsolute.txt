@@ -31,3 +31,4 @@ C:\Users\USUARIO\OneDrive\Escritorio\prueba productos\PruebaProductos\obj\Debug\
 C:\Users\USUARIO\OneDrive\Escritorio\prueba productos\PruebaProductos\obj\Debug\net8.0\PruebaProductos.pdb
 C:\Users\USUARIO\OneDrive\Escritorio\prueba productos\PruebaProductos\obj\Debug\net8.0\PruebaProductos.genruntimeconfig.cache
 C:\Users\USUARIO\OneDrive\Escritorio\prueba productos\PruebaProductos\obj\Debug\net8.0\ref\PruebaProductos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\prueba productos\PruebaProductos\obj\Debug\net8.0\PruebaProductos.sourcelink.json
